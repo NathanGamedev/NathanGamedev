@@ -24,6 +24,12 @@
 
 ###
 
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=NathanGamedev&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
 <br clear="both">
 
 <picture>
@@ -31,11 +37,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NathanGamedev/NathanGamedev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NathanGamedev/NathanGamedev/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=NathanGamedev&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ###
